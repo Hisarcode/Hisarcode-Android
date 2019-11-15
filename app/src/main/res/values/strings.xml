@@ -1,0 +1,189 @@
+<resources>
+    <string name="app_name">Movie Catalogue 2</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="tab_text_1">Movies</string>
+    <string name="tab_text_2">TV Show</string>
+    <string name="img_poster_desc">Picture or poster of the film</string>
+    <string name="object_received">Object Received</string>
+    <string name="description">Description</string>
+    <string name="date_release">Date Release</string>
+    <string name="runtime">Runtime</string>
+    <string name="sample_runtime">3h 60m</string>
+    <string name="sample_date">16 December 2016</string>
+    <string name="sample_episode">10 Season(118 Episode)</string>
+    <string name="episode">Episode</string>
+    <string name="detail_head_movie">Movie\'s Detail</string>
+    <string name="detail_head_tvshow">TV Show\'s Detail</string>
+
+    <string name="change_language_settings">Change Language Settings</string>
+
+    <string-array name="movie_name">
+        <item>Aquaman</item>
+        <item>Once Upon A Deadpool</item>
+        <item>How To Train Your Dragon: The Hidden World</item>
+        <item>Dragon Ball Super: Broly</item>
+        <item>Glass</item>
+        <item>Hunter Killer</item>
+        <item>Mary Poppins Returns</item>
+        <item>Preman Pensiun</item>
+        <item>Robin Hood</item>
+        <item>Spiderman Into The Spider-Verse</item>
+    </string-array>
+
+    <string-array name="movie_date">
+        <item>7 December 2018</item>
+        <item>11 December 2018</item>
+        <item>3 January 2019</item>
+        <item>14 December 2018</item>
+        <item>16 January 2019</item>
+        <item>19 October 2018</item>
+        <item>13 December 2018</item>
+        <item>17 January 2019</item>
+        <item>21 November 2018</item>
+        <item>6 December 2018</item>
+    </string-array>
+
+    <string-array name="movie_user_score">
+        <item>68%</item>
+        <item>69%</item>
+        <item>77%</item>
+        <item>75%</item>
+        <item>66%</item>
+        <item>64%</item>
+        <item>66%</item>
+        <item>65%</item>
+        <item>58%</item>
+        <item>84%</item>
+    </string-array>
+
+    <string-array name="movie_runtime">
+        <item>2h 24m</item>
+        <item>1h 57m</item>
+        <item>1h 44m</item>
+        <item>1h 41m</item>
+        <item>2h 9m</item>
+        <item>2h 2m</item>
+        <item>2h 11m</item>
+        <item>1h 34m</item>
+        <item>1h 56m</item>
+        <item>1h 57m</item>
+    </string-array>
+
+    <string-array name="movie_description">
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm\'s half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>A kidnapped Fred Savage is forced to endure Deadpool\'s PG-13 rendition of Deadpool 2 as a Princess Bride-esque story that\'s full of magic, wonder and zero F\'s.</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup\’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</item>
+        <item>Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called \'Broly\' who they\'ve never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so what\'s this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.</item>
+        <item>In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb, a disturbed man who has twenty-four personalities. Meanwhile, the shadowy presence of Elijah Price emerges as an orchestrator who holds secrets critical to both men.</item>
+        <item>Captain Glass of the USS Arkansas discovers that a coup d\'état is taking place in Russia, so he and his crew join an elite group working on the ground to prevent a war.</item>
+        <item>In Depression-era London, a now-grown Jane and Michael Banks, along with Michael\'s three children, are visited by the enigmatic Mary Poppins following a personal loss. Through her unique magical skills, and with the aid of her friend Jack, she helps the family rediscover the joy and wonder missing in their lives.</item>
+        <item>After three years, the business of Muslihat (Epi Kusnandar), who has retired as a thug, has a problem. Sales decline. Muslihat also faces new problems when Safira (Safira Maharani), her only daughter, grows up in adolescence and begins to be visited by boys. A bigger problem: frictions between his former subordinates.</item>
+        <item>A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English crown.</item>
+        <item>Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</item>
+    </string-array>
+
+    <array name="movie_photo">
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_marrypopins</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_spiderman</item>
+    </array>
+
+    <string-array name="tvshow_names">
+        <item>Arrow</item>
+        <item>Fairy Tail</item>
+        <item>Flash</item>
+        <item>Game of Thrones</item>
+        <item>Gotham</item>
+        <item>Hanna</item>
+        <item>NCIS</item>>
+        <item>Riverdale</item>>
+        <item>Shameless</item>>
+        <item>Supergirl</item>
+    </string-array>
+
+    <string-array name="tvshow_description">
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow</item>
+        <item>Lucy is a 17-year-old girl, who wants to be a full-fledged mage. One day when visiting Harujion Town, she meets Natsu, a young man who gets sick easily by any type of transportation. But Natsu isn\'t just any ordinary kid, he\'s a member of one of the world\'s most infamous mage guilds: Fairy Tail.</item>
+        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only \"meta-human\" who was created in the wake of the accelerator explosion — and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won\'t be long before the world learns what Barry Allen has become…The Flash</item>
+        <item>Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night\'s Watch, is all that stands between the realms of men and icy horrors beyond.</item>
+        <item>Before there was Batman, there was GOTHAM. \nEveryone knows the name Commissioner Gordon. He is one of the crime world\'s greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordon\'s story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the world\'s most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?</item>
+        <item>This thriller and coming-of-age drama follows the journey of an extraordinary young girl as she evades the relentless pursuit of an off-book CIA agent and tries to unearth the truth behind who she is. Based on the 2011 Joe Wright film.</item>
+        <item>From murder and espionage to terrorism and stolen submarines, a team of special agents investigates any crime that has a shred of evidence connected to Navy and Marine Corps personnel, regardless of rank or position.</item>
+        <item>Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale’s wholesome facade.</item>
+        <item>Chicagoan Frank Gallagher is the proud single dad of six smart, industrious, independent kids, who without him would be… perhaps better off. When Frank\s not at the bar spending what little money they have, he\'s passed out on the floor. But the kids have found ways to grow up in spite of him. They may not be like any family you know, but they make no apologies for being exactly who they are.</item>
+        <item>Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.</item>
+    </string-array>
+
+    <array name="tvshow_photo">
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_fairytail</item>
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_god</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_hanna</item>
+        <item>@drawable/poster_ncis</item>
+        <item>@drawable/poster_riverdale</item>
+        <item>@drawable/poster_shameless</item>
+        <item>@drawable/poster_supergirl</item>
+    </array>
+
+    <string-array name="tvshow_user_score">
+        <item>58%"</item>
+        <item>65%"</item>
+        <item>67%"</item>
+        <item>81%"</item>
+        <item>69%"</item>
+        <item>67%"</item>
+        <item>68%"</item>
+        <item>72%"</item>
+        <item>79%"</item>
+        <item>59%"</item>
+    </string-array>
+
+    <string-array name="tvshow_runtime">
+        <item>41m</item>
+        <item>25m</item>
+        <item>44m</item>
+        <item>60m</item>
+        <item>43m, 60m</item>
+        <item>50m</item>
+        <item>45m</item>
+        <item>45m</item>
+        <item>60m, 55m</item>
+        <item>42m</item>
+    </string-array>
+
+    <string-array name="tvshow_episode">
+        <item>8 Season(170 Episode)</item>
+        <item>6 Season(265 Episode)</item>
+        <item>6 Season(123 Episode)</item>
+        <item>8 Season(73 Episode)</item>
+        <item>5 Season(100 Episode)</item>
+        <item>1 Season(8 Episode)</item>
+        <item>17 Season(386 Episode)</item>
+        <item>4 Season(64 Episode)</item>
+        <item>10 Season(118 Episode)</item>
+        <item>5 Season(96 Episode)</item>
+    </string-array>
+
+    <string-array name="tvshow_date">
+        <item>10 October 2012</item>
+        <item>12 October 2009</item>
+        <item>7 October 2014</item>
+        <item>17 April 2011</item>
+        <item>22 September 2014</item>
+        <item>28 March 2019</item>
+        <item>23 September 2003</item>
+        <item>26 January 2017</item>
+        <item>9 January 2011</item>
+        <item>26 October 2015</item>
+    </string-array>
+</resources>
